@@ -1,0 +1,14 @@
+# Large files
+pot12_final.ptau
+*.zkey
+
+# Build artifacts
+multiplier_js/
+*.r1cs
+*.sym
+*.wtns
+
+# Keep the important stuff
+!multiplier.circom
+!input.json
+!README.md
