@@ -57,3 +57,12 @@ Proves that `5 * 7 = 35` without revealing 5 or 7.
 - Foundation for scaling to real ML models
 
 [View Circuit](./2_layer_network/two_layer.circom)
+### Day 3: ReLU Activation Function ✅
+- Added activation function to neural network
+- ReLU (Rectified Linear Unit): f(x) = max(0, x)
+- This is what makes neural networks non-linear and powerful
+- Simplified implementation - will expand with proper comparison circuits
+
+[View Circuit](./3_layer_with_relu/neural_net_relu.circom)
+
+**Key concept:** Circuits can't use if/else - need creative constraint-based solutions
