@@ -12,3 +12,10 @@ multiplier_js/
 !multiplier.circom
 !input.json
 !README.md
+
+# 2-layer network artifacts
+2_layer_network/two_layer_js/
+2_layer_network/*.zkey
+2_layer_network/*.wtns
+2_layer_network/*.r1cs
+2_layer_network/*.sym
