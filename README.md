@@ -50,3 +50,10 @@ Proves that `5 * 7 = 35` without revealing 5 or 7.
 ---
 
 **Learning ZK proofs and ZKML. This is day 1.**
+
+### Day 2: 2-Layer Neural Network ✅
+- Built real neural network: 1 input → 2 hidden neurons → 1 output
+- Proves correct forward pass through multiple layers
+- Foundation for scaling to real ML models
+
+[View Circuit](./2_layer_network/two_layer.circom)
